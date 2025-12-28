@@ -23,7 +23,7 @@ A Python-based video poker game implementing two popular poker variants with a f
 ## 🚀 Installation & Usage
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/csci-111-project11.git
+git clone https://github.com/Javanh06/Poker.git
 
 # Run the game
 python3 poker_gui.py
